@@ -31,3 +31,5 @@ If You Have Installed The 'Py2app' Before
 just
 '''python setup.py py2app
 for Mac OS X
+
+extraordinary
